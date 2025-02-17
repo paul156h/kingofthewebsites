@@ -8,9 +8,5 @@ const root = ReactDOM.createRoot(
 );
 
 root.render(
-    <React.StrictMode>
-        <div>
-            these nuts
-        </div>
-    </React.StrictMode>
+    homePage()
 )
